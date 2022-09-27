@@ -4,14 +4,14 @@ Data Science Template
 A simple [cookiecutter](https://github.com/audreyr/cookiecutter) template for creating a modern (python) data science project.
 
 ## Features
-- [Poetry]() for dependency management
-- [nbdime]() to easily version jupyter notebooks using git
+- [Poetry](https://python-poetry.org) for dependency management
+- [nbdime](https://nbdime.readthedocs.io) to easily version jupyter notebooks using git
 - Commonly used packages like pandas, matplotlib, numpy and many more already included
-- [pre-commit]() hooks such as [isort]() and [black]() for consistent, PEP8 conform code style
+- [pre-commit](https://pre-commit.com) hooks such as [isort](https://github.com/PyCQA/isort) and [black](https://github.com/psf/black) for consistent, PEP8 conform code style
 
 
 ## Getting started
-Assuming you have [cookiecutter]() and [poetry]() already installed the setup is as simple as running the following line in your terminal:
+Assuming you have [cookiecutter](https://github.com/audreyr/cookiecutter) and [poetry](https://python-poetry.org) already installed the setup is as simple as running the following line in your terminal:
 
 ```
 cookiecutter gh:MushroomMaula/data-science-template
